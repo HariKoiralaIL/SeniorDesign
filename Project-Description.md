@@ -1,7 +1,7 @@
 # Senior Project
 University of Cincinnati - Senior Project
 
-## Team Name: BigGame
+## Team Name: Foint Glizzy
 
 ## Team Members
 - **Bailin Zhen** (Computer Science)  
