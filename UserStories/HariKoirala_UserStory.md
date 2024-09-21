@@ -1,0 +1,3 @@
+As a Player, I want to be able to find useful loot as I progress through the levels. This enables me to have fun and challange myself to a higher level.
+As a Player, I want to fight a variety of enemies that are unique and fight bosses that have intresting mechanics. As a Developer, I want to create a scalable
+loot system so when I need to add something new, its easy to do and something I could balance easily.
