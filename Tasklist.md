@@ -33,3 +33,18 @@
 
 10. **Develop** a modular control scheme to be later modifiable by the UI Settings sytem.  
    *Assigned: Bailin Zhen*
+
+11. **Develop** music and sound effects for levels, game events, or player actions.  
+   *Assigned: Vitta Silberberg*
+
+12. **Design** sprite sheets, art, and textures for game visuals and levels.
+   *Assigned: Vitta Silberberg*
+
+13. **Research** level design for creating levels that feel fun to play through and explore.  
+   *Assigned: Vitta Silberberg*
+
+14. **Design** and implement player movement abilities and upgrades.  
+   *Assigned: Vitta Silberberg*
+
+15. **Design** unique discoverable items and discoverable upgrades.  
+   *Assigned: Vitta Silberberg*
