@@ -1,7 +1,7 @@
 # Task List
 
-0. **Design** and impelment the ability set of one unique character.
-*Assigned: Everyone*
+0. **Design**  and impelment the ability set of one unique character.  
+   *Assigned: Everyone*
 
 1. **Design** a respawn area for players to re-enter the game after dying.  
    *Assigned: Hari Koirala*
