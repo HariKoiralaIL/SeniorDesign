@@ -25,7 +25,7 @@
 7.  **Implement** a sfx system into base character and base enemy scenes.  
    *Assigned: Bailin Zhen*
 
-8.**Design** a standard way to hook up sounds to the sfx system in child character and enemy scenes.  
+8. **Design** a standard way to hook up sounds to the sfx system in child character and enemy scenes.  
    *Assigned: Bailin Zhen*
 
 9. **Find**, Purchase, or somehow Acquire all sounds and music needed for the game in the form of .wav files.  
