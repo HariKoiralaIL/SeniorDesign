@@ -18,7 +18,6 @@
 5. **Create** a system for playing and managing character animations to enhance visual feedback during gameplay.  
    *Assigned: Hari Koirala*
 
-
 6. **Create** a global signal system to handle events like onhit, ondamaged, enemydeath, for statistic tracking and passive activations.  
    *Assigned: Bailin Zhen*
 
@@ -48,3 +47,18 @@
 
 15. **Design** unique discoverable items and discoverable upgrades.  
    *Assigned: Vitta Silberberg*
+
+16. **Design** customizations for charater design.
+    *Assigned: Matthew Estes*
+    
+17. **Develop** detection and jump ability
+    *Assigned: Matthew Estes*
+
+18. **Research** optimization for projectile movement.
+    *Assigned: Matthew Estes*
+
+19. **Document** the progress as the project moves along.
+    *Assigned: Matthew Estes*
+    
+20. **Obtain** users to test out the game.
+    *Assigned: Matthew Estes*
