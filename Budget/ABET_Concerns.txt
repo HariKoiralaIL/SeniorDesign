@@ -1,0 +1,9 @@
+Our 2D action roguelike development project faces several obstacles that could affect our development. 
+First, we have financial constraints due to our limited budget and no money to hire professional artists for assets such as music. 
+Sound and art on a small budget, So we have to create content for our game ourselves or rely on free/low cost resources. This limits the game's visual and audio quality. 
+Security becomes a concern if we expand to multiplayer functionality. 
+Ensuring player safety through secure data controls Protection against hacking or fraud And protecting player privacy must be carefully planned and executed. 
+We need to take the necessary steps to avoid any security risks that may affect the player experience.
+Legal restrictions also affect our design choices. Especially regarding intellectual property. 
+We must ensure that our game mechanics and assets are original so other companies do not take legal action.
+These constraints will shape the design of our game and push us to consider assets and other game design elements such that it can be best game we can develop.

@@ -1,28 +1,12 @@
 # Senior Project
 University of Cincinnati - Senior Project
 
-## Team Name: Foint Glizzy
-
-## Team Members
-- **Bailin Zhen** (Computer Science)  
-  Email: [zhenbn@mail.uc.edu](mailto:zhenbn@mail.uc.edu)
-
-- **Matthew Estes** (Computer Science)  
-  Email: [estesmw@mail.uc.edu](mailto:estesmw@mail.uc.edu)
-
-- **Vitta Silberberg** (Computer Science)  
-  Email: [silberjm@mail.uc.edu](mailto:silberjm@mail.uc.edu)
-
-- **Hari Koirala** (Computer Science)  
-  Email: [koiralhi@mail.uc.edu](mailto:koiralhi@mail.uc.edu)
-
-- **[Advisor_Name]**
-  Email: [](mailto:)
-
-## Topic Area
-**Game Development**
-
 ## Project Abstract
+We plan on creating a fantasy-themed 2D action roughlike game set in a cave. The Player will control a customizable character with unique
+abilities, each suited with a different playstyle. The game will have a character-based ability system. There will be randomized item drops
+and semo-randomized maps. The enemies will be unique, so each run will be like a new experience. This will also encourage players to play
+with different stragies and combinations of items. The goal is to create a high replayable game where each dive into the cave feels like a 
+new adventure.
 
 ## Table of Contents
 1. [Project Description](./Project-Description.md)
@@ -38,7 +22,7 @@ University of Cincinnati - Senior Project
    - [Timelines](./Design%20Documents/Technial%20Diagram%20+%20Timeline%20+%20Tasks.drawio)
    - Description: These are high level architecture of game development. The First Design Diagram is the most high level. We have our player controls the games with keyboard and the game generates the graphics, the gameplay and has immersion, which results in it being fun to play. The Second Design Diagram describes the architecture in more detail. We have our Input which gives some output. The game creates an Character, Map and Enemies, Which all interact with the Player and results in an Diverse Gameplay. The Third Design Diagram is the most detailed which describes internal systems such as how an Player moves using the Animation and Movement System.
 4. [Project Tasks and Timeline]
-5. [ABET Concerns Essay]
+5. [ABET Concerns Essay](./Budget/Budget_Info.txt)
 6. [PPT Slideshow](./PowerPoint/Team%20Foint%20Glizzy.pptx)
 7. [Self-Assessment Essays](./Essays/)
    - [Hari Essay](./Essays/Indv_Capstone_Hari_Koirala.docx)
@@ -50,5 +34,5 @@ University of Cincinnati - Senior Project
    - [Matthew Biography](./ProfessionalBios/ProfessionalBioMatthewEstes.md)
    - [Vitta Biography](./ProfessionalBios/ProfessionalBioVittaSilberberg.md)
    - [Bailin Biography](./ProfessionalBios/ProfessionalBioBailinZhen.md)
-9. [Budget]
+9. [Budget](./Budget/Budget_Info.txt)
 10. [Appendex]

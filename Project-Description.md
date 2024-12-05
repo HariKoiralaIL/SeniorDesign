@@ -16,5 +16,8 @@ University of Cincinnati - Senior Project
 - **Hari Koirala** (Computer Science)  
   Email: [koiralhi@mail.uc.edu](mailto:koiralhi@mail.uc.edu)
 
+- **Advisor - Evan Torner**
+  Email: [torneren@ucmail.uc.edu](mailto:torneren@ucmail.uc.edu)
+  
 ## Topic Area
 **Game Development**

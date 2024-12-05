@@ -1,0 +1,11 @@
+Meeting was done on our Discord Channel. We talk about our assignments and our plans moving forward.
+This is the main code repository and we are planning to
+have different branches for our members when we do the complate game next semester.
+
+Our Team Members are stuyding the Godot Game Engine in order to become more Proficient in Creating the Game.
+Three of us have not necessary used the Godot Game Engine so have been Practicing by following small tutorials
+and have been playing around creating simple things like movements and studying upon game desgin and game design
+patterns. Bailin has more experience on Godot but he is like us, studying more to improve his knowledge.
+
+For our game programming patterns: https://gameprogrammingpatterns.com/contents.html
+Godot Game Tutorials: https://docs.godotengine.org/en/stable/community/tutorials.html
