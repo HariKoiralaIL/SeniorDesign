@@ -31,7 +31,7 @@ new adventure.
    - [Hari Essay](./Essays/Indv_Capstone_Hari_Koirala.docx)
    - [Matthew Essay](./Essays/Matthew%20Estes%20Capstone%20Assessment.docx)
    - [Vitta Essay]
-   - [Bailin Essay]
+   - [Bailin Essay](.Essays/Bailin%20Zhen%20Capstone%20Assessment)
 8. [Professional Biographies](./ProfessionalBios/)
    - [Hari Biography](./ProfessionalBios/ProfessionalBioHariKoirala.md)
    - [Matthew Biography](./ProfessionalBios/ProfessionalBioMatthewEstes.md)
