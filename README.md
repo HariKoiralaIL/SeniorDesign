@@ -33,3 +33,17 @@ University of Cincinnati - Senior Project
    - [Second Design Document](./Design%20Documents/D1%20Diagram.drawio.png)
    - [Third Design Document](./Design%20Documents/D2%20Diagram.drawio.png)
    - [Timelines](./Design%20Documents/Technial%20Diagram%20+%20Timeline%20+%20Tasks.drawio)
+   - Description:
+4. [Project Tasks and Timeline]
+5. [ABET Concerns Essay]
+6. [PPT Slideshow]
+7. [Self-Assessment Essays](./Essays/)
+   - [Hari Essay](./Essays/Indv_Capstone_Hari_Koirala.docx)
+   - [Matthew Essay](./Essays/Matthew%20Estes%20Capstone%20Assessment.docx)
+8. [Professional Biographies](./ProfessionalBios/)
+   - [Hari Biography](./ProfessionalBios/ProfessionalBioHariKoirala.md)
+   - [Matthew Biography](./ProfessionalBios/ProfessionalBioMatthewEstes.md)
+   - [Vitta Biography](./ProfessionalBios/ProfessionalBioVittaSilberberg.md)
+   - [Bailin Biography](./ProfessionalBios/ProfessionalBioBailinZhen.md)
+9. [Budget]
+10. [Appendex]
