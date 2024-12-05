@@ -38,4 +38,4 @@ new adventure.
    - [Vitta Biography](./ProfessionalBios/ProfessionalBioVittaSilberberg.md)
    - [Bailin Biography](./ProfessionalBios/ProfessionalBioBailinZhen.md)
 9.  [Budget](./Budget/Budget_Info.txt)
-10. [Appendex]
+10. [Appendex](./Appendex.txt)
