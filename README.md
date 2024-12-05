@@ -16,5 +16,13 @@ University of Cincinnati - Senior Project
 - **Hari Koirala** (Computer Science)  
   Email: [koiralhi@mail.uc.edu](mailto:koiralhi@mail.uc.edu)
 
+- **[Advisor_Name]**
+  Email: [](mailto:)
+
 ## Topic Area
 **Game Development**
+
+## Project Abstract
+
+## Table of Contents
+1. [Project Description](./Project_Description.md)
