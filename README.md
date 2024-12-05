@@ -23,8 +23,8 @@ new adventure.
    - Description: These are high level architecture of game development. The First Design Diagram is the most high level. We have our player controls the games with keyboard and the game generates the graphics, the gameplay and has immersion, which results in it being fun to play. The Second Design Diagram describes the architecture in more detail. We have our Input which gives some output. The game creates an Character, Map and Enemies, Which all interact with the Player and results in an Diverse Gameplay. The Third Design Diagram is the most detailed which describes internal systems such as how an Player moves using the Animation and Movement System.
 4. [Project Tasks and Timeline]
    - [Task List](./Tasklist.md)
-   - [Timeline]
-   - [Effort Matrix]
+   - [Timeline](./Tasks-Timeline/Milestones,%20Timeline,%20and%20Effort%20Matrix.xlsx)
+   - [Effort Matrix](./Tasks-Timeline/Milestones,%20Timeline,%20and%20Effort%20Matrix.xlsx)
 5. [ABET Concerns Essay](./Budget/Budget_Info.txt)
 6. [PPT Slideshow](./PowerPoint/Team%20Foint%20Glizzy.pptx)
 7. [Self-Assessment Essays](./Essays/)
