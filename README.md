@@ -22,6 +22,9 @@ new adventure.
    - [Timelines](./Design%20Documents/Technial%20Diagram%20+%20Timeline%20+%20Tasks.drawio)
    - Description: These are high level architecture of game development. The First Design Diagram is the most high level. We have our player controls the games with keyboard and the game generates the graphics, the gameplay and has immersion, which results in it being fun to play. The Second Design Diagram describes the architecture in more detail. We have our Input which gives some output. The game creates an Character, Map and Enemies, Which all interact with the Player and results in an Diverse Gameplay. The Third Design Diagram is the most detailed which describes internal systems such as how an Player moves using the Animation and Movement System.
 4. [Project Tasks and Timeline]
+   - [Task List](./Tasklist.md)
+   - [Timeline]
+   - [Effort Matrix]
 5. [ABET Concerns Essay](./Budget/Budget_Info.txt)
 6. [PPT Slideshow](./PowerPoint/Team%20Foint%20Glizzy.pptx)
 7. [Self-Assessment Essays](./Essays/)
@@ -34,5 +37,5 @@ new adventure.
    - [Matthew Biography](./ProfessionalBios/ProfessionalBioMatthewEstes.md)
    - [Vitta Biography](./ProfessionalBios/ProfessionalBioVittaSilberberg.md)
    - [Bailin Biography](./ProfessionalBios/ProfessionalBioBailinZhen.md)
-9. [Budget](./Budget/Budget_Info.txt)
+9.  [Budget](./Budget/Budget_Info.txt)
 10. [Appendex]
