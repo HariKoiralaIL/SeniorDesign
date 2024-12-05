@@ -1,0 +1,2 @@
+As a player, I want to feel each run is unique and different, while still feeling that I could always succeed with enough skill. 
+The randomness should force me to use different tactics and play styles each run while still being balanced so that even extremely bad luck can be overcome with skill. 
