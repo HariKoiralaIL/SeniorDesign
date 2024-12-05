@@ -21,7 +21,7 @@ new adventure.
    - [Third Design Document](./Design%20Documents/D2%20Diagram.drawio.png)
    - [Timelines](./Design%20Documents/Technial%20Diagram%20+%20Timeline%20+%20Tasks.drawio)
    - Description: These are high level architecture of game development. The First Design Diagram is the most high level. We have our player controls the games with keyboard and the game generates the graphics, the gameplay and has immersion, which results in it being fun to play. The Second Design Diagram describes the architecture in more detail. We have our Input which gives some output. The game creates an Character, Map and Enemies, Which all interact with the Player and results in an Diverse Gameplay. The Third Design Diagram is the most detailed which describes internal systems such as how an Player moves using the Animation and Movement System.
-4. [Project Tasks and Timeline]
+4. [Project Tasks and Timeline](./Tasks-Timeline/)
    - [Task List](./Tasklist.md)
    - [Timeline](./Tasks-Timeline/Milestones,%20Timeline,%20and%20Effort%20Matrix.xlsx)
    - [Effort Matrix](./Tasks-Timeline/Milestones,%20Timeline,%20and%20Effort%20Matrix.xlsx)
