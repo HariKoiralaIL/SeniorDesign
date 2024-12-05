@@ -2,10 +2,10 @@
 University of Cincinnati - Senior Project
 
 ## Project Abstract
-We plan on creating a fantasy-themed 2D action roughlike game set in a cave. The Player will control a customizable character with unique
-abilities, each suited with a different playstyle. The game will have a character-based ability system. There will be randomized item drops
-and semo-randomized maps. The enemies will be unique, so each run will be like a new experience. This will also encourage players to play
-with different stragies and combinations of items. The goal is to create a high replayable game where each dive into the cave feels like a 
+We plan on creating a fantasy-themed 2D action roguelike game set in a cave. The Player will control a customizable character with unique
+abilities, each suited for a different playstyle. The game will have a character-based ability system. There will be randomized item drops
+and semi-randomized maps. The enemies will be unique, so each run will be like a new experience. This will also encourage players to play
+with different stragies and combinations of items. The goal is to create a highly replayable game where each dive into the cave feels like a 
 new adventure.
 
 ## Table of Contents
