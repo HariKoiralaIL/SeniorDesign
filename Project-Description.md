@@ -27,3 +27,6 @@ A 2D RPG-style cave exploration game where players use abilities to fight monste
 
 ## Description
 This project is a 2D cave-exploring, RPG-inspired game that combines action-packed combat with exploration and progression mechanics. Players control a customizable character equipped with a set of unique abilities, navigating a dangerous underground cave filled with hostile creatures and hidden treasures. The goal is to fight through waves of enemies, collect valuable loot, and defeat powerful bosses to unlock the next stage of the journey.
+
+## Repository
+https://github.com/Pix-Hexate/SeniorDesign/

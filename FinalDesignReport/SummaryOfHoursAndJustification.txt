@@ -1,0 +1,16 @@
+Hari Koirala:
+    - The 45 Hours spent on this project was the combination of: Learning Godot + Implementing the Game
+        - Godot was a langauge we did not really have familirity with. I spent lots of time researching on how to do
+        various intresting operations using GDScript and lots of time was spent on Implementing something and then
+        fixing that Implementation due to not working or getting an better approach on how to do it.
+        - There was also time spent on research for how to best use User Interface to appeal to User because if 
+        a game has a simple interface, it will make it approachable and players will be able to better navigate
+        through the game.
+
+
+
+
+Links:
+    Ideas: https://docs.google.com/document/d/1TJUtPMHlMcEgxJaNvrv5HYYb5jk9v5dad-5ymA17COA/edit?usp=sharing
+    Ideas: https://docs.google.com/document/d/1IDDx4jbxCABM_AGTmhAmOo6q9qeZ6NT-T5b_aHyjyfA/edit?usp=sharing
+    Project Repository: https://github.com/Pix-Hexate/SeniorDesign/

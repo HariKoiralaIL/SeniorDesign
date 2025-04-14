@@ -9,3 +9,8 @@ patterns. Bailin has more experience on Godot but he is like us, studying more t
 
 For our game programming patterns: https://gameprogrammingpatterns.com/contents.html
 Godot Game Tutorials: https://docs.godotengine.org/en/stable/community/tutorials.html
+
+Links:
+    Ideas: https://docs.google.com/document/d/1TJUtPMHlMcEgxJaNvrv5HYYb5jk9v5dad-5ymA17COA/edit?usp=sharing
+    Ideas: https://docs.google.com/document/d/1IDDx4jbxCABM_AGTmhAmOo6q9qeZ6NT-T5b_aHyjyfA/edit?usp=sharing
+    Project Repository: https://github.com/Pix-Hexate/SeniorDesign/
