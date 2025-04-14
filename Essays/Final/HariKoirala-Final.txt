@@ -1,0 +1,13 @@
+My individual contribution to our group project focused on the user interface (UI) design. Since our project was a game, we needed a 
+functional and visually appealing main menu, options screen, and other UI components. I lead an effort to prototype these elements 
+using the Godot game engine. My work involved multiple iterations, as the initial designs were sometimes too cluttered, overly complex, 
+or lacked visual clarity. I worked closely with my team to gather feedback and refine the UI, eventually delivering a clean and intuitive 
+interface that complemented the gameplay experience. This iterative process helped ensure our final product was not only functional but 
+also accessible and enjoyable for users.
+
+Reflecting on my initial assessment from last fall, which emphasized skills in Programming and Other (like asset creation and sound design),
+I primarily focused on the "Other" category, where I worked with Godot to create UI. Through this process, I learned the importance of 
+simplicity and user-centered design - understanding that a good UI helps players easily navigate the game without frustration. I also 
+strengthened my ability to take feedback and adapt designs accordingly. One of my biggest successes was turning rough prototypes into a 
+polished, cohesive UI that matched our game’s theme. A key obstacle was balancing functionality with aesthetics, but this challenge helped
+me grow both creatively and technically.
