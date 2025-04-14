@@ -1,0 +1,2 @@
+Due to our project being an Game, the User Manual is the GUI because it shows how to start the game, play the game
+and when an event such as death occurs, it tells you you died and gives you option to restart the game.
